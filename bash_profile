@@ -36,7 +36,7 @@ alias c.="cd .."
 alias q="exit"
 alias rm="rm -r"
 alias explo="explorer.exe C:"
-# alias descarga="explorer.exe /c/Users/miracuru-pc/Downloads"
+
 mkcd() {
   mkdir $1 && cd $1
 }
